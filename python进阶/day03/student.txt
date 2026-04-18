@@ -1,0 +1,1 @@
+[{'name': '张三', 'gender': '男', 'age': '20', 'mobile': '131', 'des': '善良'}, {'name': '李四', 'gender': '男', 'age': '42', 'mobile': '189', 'des': '好人'}, {'name': '王五', 'gender': '女', 'age': '26', 'mobile': '153', 'des': '脾气差'}]
